@@ -7,7 +7,7 @@ By Ga-yana
 
 ## A page for Crypto
 
-### 
+### Click [here](https://cryptoskylanding.netlify.app/) to see it live
 
 ![Homepage](./assets/Screenshot%202022-08-05%20at%205.04.08%20PM.png)
 # 
